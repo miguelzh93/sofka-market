@@ -14,9 +14,4 @@ public class HolaMundoController {
         return "Hola Mundo";
     }
 
-    /*@GetMapping("/v2")
-    public List<Producto> getAllProductos() {
-
-        return p.getAll();
-    }*/
 }

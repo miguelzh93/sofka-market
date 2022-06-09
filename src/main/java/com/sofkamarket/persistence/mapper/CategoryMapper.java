@@ -7,7 +7,6 @@ import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.mapstruct.Mappings;
 
-import javax.crypto.spec.PSource;
 
 @Mapper(componentModel = "spring")
 public interface CategoryMapper {

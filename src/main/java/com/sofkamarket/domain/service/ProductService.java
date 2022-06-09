@@ -26,7 +26,7 @@ public class ProductService {
         return productRepository.getByCategory(categoryId);
     }
 
-    public Producto save(Product product){
+    public Product save(Product product){
         return productRepository.save(product);
     }
 
